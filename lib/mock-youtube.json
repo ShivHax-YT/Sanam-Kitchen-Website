@@ -1,0 +1,82 @@
+{
+  "latest": [
+    {
+      "id": "mock1",
+      "title": "Paneer Tikka Wrap | Easy Weeknight Dinner",
+      "publishedAt": "2024-10-15T00:00:00Z",
+      "thumbnail": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=900&q=80",
+      "duration": "8:12",
+      "url": "https://www.youtube.com/watch?v=mock1",
+      "category": "dinner"
+    },
+    {
+      "id": "mock2",
+      "title": "Masala Chai 3 Ways | Cozy Winter Drinks",
+      "publishedAt": "2024-09-02T00:00:00Z",
+      "thumbnail": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=900&q=80",
+      "duration": "5:04",
+      "url": "https://www.youtube.com/watch?v=mock2",
+      "category": "drinks"
+    },
+    {
+      "id": "mock3",
+      "title": "15 Minute Veggie Noodles | Street Style",
+      "publishedAt": "2024-08-12T00:00:00Z",
+      "thumbnail": "https://images.unsplash.com/photo-1481931098730-318b6f776db0?auto=format&fit=crop&w=900&q=80",
+      "duration": "6:55",
+      "url": "https://www.youtube.com/watch?v=mock3",
+      "category": "snacks"
+    },
+    {
+      "id": "mock4",
+      "title": "Punjabi Chole Bhature | Meal Prep Friendly",
+      "publishedAt": "2024-07-28T00:00:00Z",
+      "thumbnail": "https://images.unsplash.com/photo-1604908177075-0ac1c9bb646e?auto=format&fit=crop&w=900&q=80",
+      "duration": "9:47",
+      "url": "https://www.youtube.com/watch?v=mock4",
+      "category": "punjabi"
+    }
+  ],
+  "playlists": {
+    "PLAYLIST_BREAKFAST_ID": [
+      {
+        "id": "pb1",
+        "title": "Fluffy Masala Omelette Sandwich",
+        "publishedAt": "2024-05-02T00:00:00Z",
+        "thumbnail": "https://images.unsplash.com/photo-1495195134817-aeb325a55b65?auto=format&fit=crop&w=900&q=80",
+        "duration": "4:22",
+        "url": "https://www.youtube.com/watch?v=pb1",
+        "category": "breakfast"
+      },
+      {
+        "id": "pb2",
+        "title": "Overnight Oats with Rose & Pistachio",
+        "publishedAt": "2024-03-14T00:00:00Z",
+        "thumbnail": "https://images.unsplash.com/photo-1481391032119-d89fee407e44?auto=format&fit=crop&w=900&q=80",
+        "duration": "3:58",
+        "url": "https://www.youtube.com/watch?v=pb2",
+        "category": "breakfast"
+      }
+    ],
+    "PLAYLIST_SNACKS_ID": [
+      {
+        "id": "ps1",
+        "title": "Crispy Corn Chaat | Monsoon Snack",
+        "publishedAt": "2024-06-18T00:00:00Z",
+        "thumbnail": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80",
+        "duration": "6:11",
+        "url": "https://www.youtube.com/watch?v=ps1",
+        "category": "snacks"
+      },
+      {
+        "id": "ps2",
+        "title": "Spicy Air-Fryer Samosas",
+        "publishedAt": "2024-02-20T00:00:00Z",
+        "thumbnail": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=900&q=80",
+        "duration": "7:03",
+        "url": "https://www.youtube.com/watch?v=ps2",
+        "category": "snacks"
+      }
+    ]
+  }
+}
