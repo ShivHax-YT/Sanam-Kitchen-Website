@@ -10,6 +10,8 @@ import { RecipeCard } from "@/components/recipes/recipe-card";
 import { VideoCard } from "@/components/videos/video-card";
 import { formatDate } from "@/lib/utils";
 import { Youtube, Instagram, Facebook, Music2 } from "lucide-react";
+import { siteConfig } from "@/lib/site-config";
+
 
 export default async function HomePage() {
   const [recipes, videos] = await Promise.all([getAllRecipes(), getLatestVideos()]);
